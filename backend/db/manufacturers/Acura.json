@@ -1,0 +1,79 @@
+{
+    "ILX": {
+        "model": "ILX",
+        "trim": [
+            "The Fit"
+        ],
+        "color": [
+            "ILX Color"
+        ],
+        "image": "2014-honda-fit-dx-a_3.png",
+        "about": "The Fit is a compact vehicle with good fuel economy",
+        "term" : ["12 Months", "24 Months", "36 Months", "48 Months"],
+        "mileage" : ["12,000", "16,000", "20,000", "24,000", "30,000"]
+    },
+    "TLX": {
+        "model": "TLX",
+        "trim": [
+            "DX Manual Transmission",
+            "DX CVT Transmission",
+            "LX Manual Transmission",
+            "LX CVT Double Transmission",
+            "Si Manual Transmission",
+            "Bruces Model"
+        ],
+        "color": [
+            "Modern Steel Metallic",
+            "Crystal Black Pearl",
+            "White Orchid Pearl",
+            "Aegean Blue Metallic",
+            "Rallye Red"
+        ],
+        "image": "2015-honda-civic-dx_1.png",
+        "about": "The Civic Sedan is a great reliable mid size vehicle with good fuel economy and large trunk room",
+        "term" : ["12 Months", "24 Months", "36 Months", "48 Months"],
+        "mileage" : ["12,000", "16,000", "20,000", "24,000", "30,000"]
+    },
+    "MDX": {
+        "model": "MDX",
+        "trim": [
+            "DX Manual Transmission",
+            "DX CVT Transmission",
+            "LX Manual Transmission",
+            "LX CVT Transmission",
+            "Si Manual Transmission"
+        ],
+        "color": [
+            "Modern Steel Metallic",
+            "Crystal Black Pearl",
+            "White Orchid Pearl",
+            "Aegean Blue Metallic",
+            "Rallye Red"
+        ],
+        "image": "2018-honda-accord-lx.png",
+        "about": "There are no mistakes. You can fix anything that happens. Every single thing in the world has its own personality - and it is up to you to make friends with the little rascals. Now it's beginning to make a little sense.",
+        "term" : ["12 Months", "24 Months", "36 Months", "48 Months"],
+        "mileage" : ["12,000", "16,000", "20,000", "24,000", "30,000"]
+    },
+    "RDX": {
+        "model": "RDX",
+        "trim": [
+            "DX Manual Transmission",
+            "DX CVT Transmission",
+            "LX Manual Transmission",
+            "LX CVT Transmission",
+            "Si Manual Transmission"
+        ],
+        "color": [
+            "Modern Steel Metallic",
+            "Crystal Black Pearl",
+            "White Orchid Pearl",
+            "Aegean Blue Metallic",
+            "Rallye Red"
+        ],
+        "image": "2018-honda-accord-lx.png",
+        "about": "THIS IS THE CRV MODEL.",
+        "term" : ["12 Months", "24 Months", "36 Months", "48 Months"],
+        "mileage" : ["12,000", "16,000", "20,000", "24,000", "30,000", "40,000"]
+    }
+}

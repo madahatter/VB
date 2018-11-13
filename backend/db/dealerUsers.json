@@ -1,0 +1,34 @@
+{
+    "d@d.com": {
+        "email": "d@d.com",
+        "password": "123",
+        "firstName": "Adam",
+        "lastName": "Harper",
+        "dealerName": "Honda 1",
+        "address": "4425 Boul St Jean",
+        "city": "DDO",
+        "province": "Qc",
+        "postalcode": "H9H2A4",
+        "phone": "15147582916",
+        "manufacturer": "Honda",
+        "activated": "false",
+        "dealerID": 160142340475,
+        "bids": ""
+    },
+    "adamharper9@gmail.com": {
+        "email": "adamharper9@gmail.com",
+        "password": "123",
+        "firstName": "Adam",
+        "lastName": "Harper",
+        "dealerName": "AAA",
+        "address": "4425 Boul St Jean",
+        "city": "DDO",
+        "province": "Qc",
+        "postalcode": "H9H2A4",
+        "phone": "15145491725",
+        "manufacturer": "Honda",
+        "activated": "true",
+        "dealerID": 927265996348,
+        "bids": ""
+    }
+}

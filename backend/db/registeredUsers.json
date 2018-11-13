@@ -1,0 +1,62 @@
+{
+    "a@a.com": {
+        "email": "a@a.com",
+        "password": "123",
+        "firstName": "Adam",
+        "lastName": "Harper",
+        "address": "4425 Boul St Jean",
+        "city": "DDO",
+        "province": "Qc",
+        "postalcode": "H9H2A4",
+        "phone": "15147582916",
+        "isAdmin": "false",
+        "userID": 43814758700,
+        "quotes": [
+            782586730,
+            896761012,
+            405666572
+        ]
+    },
+    "john@doe.com": {
+        "email": "john@doe.com",
+        "password": "123",
+        "firstName": "John",
+        "lastName": "Doe",
+        "address": "123 Test St",
+        "city": "Toronto",
+        "province": "Ontario",
+        "postalcode": "M3M1A1",
+        "phone": "19055551212",
+        "isAdmin": "false",
+        "userID": 494166718873,
+        "quotes": []
+    },
+    "test@test.com": {
+        "email": "test@test.com",
+        "password": "123",
+        "firstName": "Test",
+        "lastName": "Test",
+        "address": "11",
+        "city": "DDO",
+        "province": "QC",
+        "postalcode": "H9H9H9",
+        "phone": "15141234567",
+        "isAdmin": "false",
+        "userID": 107003860527,
+        "quotes": []
+    },
+    "test@gmail.com": {
+        "email": "test@gmail.com",
+        "password": "123",
+        "firstName": "Adam",
+        "lastName": "Harper",
+        "address": "4425 Boul St Jean, 309",
+        "city": "DDO",
+        "province": "Qc",
+        "postalcode": "H9H2A4",
+        "phone": "15147582916",
+        "isAdmin": "false",
+        "userID": 117609984834,
+        "quotes": []
+    }
+}

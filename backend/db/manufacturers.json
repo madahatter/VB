@@ -1,0 +1,50 @@
+{
+    "honda": [
+        {
+            "model": "Fit",
+            "trim": [
+                "The Fit"
+            ],
+            "color": [
+                "Fit Color"
+            ],
+            "image": "2014-honda-fit-dx-a_3.png"
+        },
+        {
+            "model": "Civic Sedan",
+            "trim": [
+                "DX Manual Transmission",
+                "DX CVT Transmission",
+                "LX Manual Transmission",
+                "LX CVT Double Transmission",
+                "Si Manual Transmission"
+            ],
+            "color": [
+                "Modern Steel Metallic",
+                "Crystal Black Pearl",
+                "White Orchid Pearl",
+                "Aegean Blue Metallic",
+                "Rallye Red"
+            ],
+            "image": "2015-honda-civic-dx_1.png"
+        },
+        {
+            "model": "Accord",
+            "trim": [
+                "DX Manual Transmission",
+                "DX CVT Transmission",
+                "LX Manual Transmission",
+                "LX CVT Transmission",
+                "Si Manual Transmission"
+            ],
+            "color": [
+                "Modern Steel Metallic",
+                "Crystal Black Pearl",
+                "White Orchid Pearl",
+                "Aegean Blue Metallic",
+                "Rallye Red"
+            ],
+            "image": "2018-honda-accord-lx.png"
+        }
+    ]
+}
